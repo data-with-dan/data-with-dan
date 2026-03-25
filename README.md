@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Daana
 
-## 💼 About Me
+![banner](link-to-your-image)
+
 Recent graduate of Master's in Data Science with experience in analytics, modelling, and dashboards. 
 
 - 🔍 Querying data using SQL
