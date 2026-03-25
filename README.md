@@ -1,5 +1,5 @@
 ![banner](./banner.png)
-## 👋 Hi, I'm Daana
+### 👋 Hi, I'm Daana
 Recent M.S. in Data Science graduate with experience in analytics, forecasting, and dashboard development.
 
 - 🔍 Querying data using SQL
@@ -7,8 +7,8 @@ Recent M.S. in Data Science graduate with experience in analytics, forecasting, 
 - ⚙️ Automating workflows with Python
 - 📈 Turning data into business insights
 
-## 🛠️ Tools & Skills
+### 🛠️ Tools & Skills
 Python | SQL | Tableau | Power BI | Excel
 
-## 📫 Let's connect!
+### 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/daana-masumi/)
