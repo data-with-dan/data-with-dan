@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Daana
 
-<!--
-**data-with-dan/data-with-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+Recent graduate of Master's in Data Science with experience in analytics, modelling, and dashboards. 
 
-Here are some ideas to get you started:
+- 🔍 Querying data using SQL
+- 📊 Building dashboards (Tableau, Power BI)
+- ⚙️ Automating workflows with Python
+- 📈 Turning data into business insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Skills
+Python | SQL | Tableau | Power BI | Excel
+
+## 📫 Let's connect!
+- LinkedIn: [(https://www.linkedin.com/in/daana-masumi/)]
