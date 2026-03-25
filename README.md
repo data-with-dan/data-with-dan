@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daana
 
-![banner](link-to-your-image)
+![banner](63335652-5eff-4bf7-93c0-01c0beed7899.png)
 
 Recent graduate of Master's in Data Science with experience in analytics, modelling, and dashboards. 
 
@@ -13,4 +13,4 @@ Recent graduate of Master's in Data Science with experience in analytics, modell
 Python | SQL | Tableau | Power BI | Excel
 
 ## 📫 Let's connect!
-- LinkedIn: [(https://www.linkedin.com/in/daana-masumi/)]
+- LinkedIn: [https://www.linkedin.com/in/daana-masumi/]
