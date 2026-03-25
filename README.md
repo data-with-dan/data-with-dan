@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Daana
-<img src="./63335652-5eff-4bf7-93c0-01c0beed7899.png" width="100%" />
 Recent M.S. in Data Science graduate with experience in analytics, forecasting, and dashboard development.
 
 - 🔍 Querying data using SQL
