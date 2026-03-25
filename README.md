@@ -1,3 +1,4 @@
+![banner](./banner.png)
 # 👋 Hi, I'm Daana
 Recent M.S. in Data Science graduate with experience in analytics, forecasting, and dashboard development.
 
