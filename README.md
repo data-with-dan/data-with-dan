@@ -10,4 +10,4 @@ Recent M.S. in Data Science graduate with experience in analytics, forecasting, 
 Python | SQL | Tableau | Power BI | Excel
 
 ## 📫 Let's connect!
-- LinkedIn: [daana-masumi](https://www.linkedin.com/in/daana-masumi/)
+- [LinkedIn](https://www.linkedin.com/in/daana-masumi/)
